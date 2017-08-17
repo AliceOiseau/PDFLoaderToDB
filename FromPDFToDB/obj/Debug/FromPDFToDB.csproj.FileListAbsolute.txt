@@ -1,0 +1,12 @@
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\x64\liblept172.dll
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\x64\libtesseract304.dll
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\x86\liblept172.dll
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\x86\libtesseract304.dll
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\FromPDFToDB.exe.config
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\FromPDFToDB.exe
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\FromPDFToDB.pdb
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\Tesseract.dll
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\bin\Debug\Tesseract.xml
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\obj\Debug\FromPDFToDB.csprojResolveAssemblyReference.cache
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\obj\Debug\FromPDFToDB.exe
+C:\Solomiya\C#\FromPDFToDB\FromPDFToDB\obj\Debug\FromPDFToDB.pdb
